@@ -1,2 +1,11 @@
-
 /* Your CSS Code here. */
+.progress {
+    height: 10px;
+    background: #ddd;
+}
+
+.progress__filled {
+    height: 100%;
+    width: 0%;
+    background: red;
+}
